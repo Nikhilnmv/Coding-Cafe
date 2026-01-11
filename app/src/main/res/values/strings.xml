@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartLearn</string>
+    
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="courses">Courses</string>
+    <string name="focus_timer">Focus Timer</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Focus Timer -->
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="focus_time">Focus Time</string>
+    <string name="break_time">Break Time</string>
+    
+    <!-- Engagement Analyzer -->
+    <string name="enable_camera">Enable Camera</string>
+    <string name="camera_permission_required">Camera permission is required for engagement analysis</string>
+    <string name="focused">Focused</string>
+    <string name="tired">Tired</string>
+    <string name="distracted">Distracted</string>
+    
+    <!-- Food Ordering -->
+    <string name="food_recommendations">Food Recommendations</string>
+    <string name="order_now">Order Now</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+</resources>
